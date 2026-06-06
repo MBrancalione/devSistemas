@@ -2,24 +2,15 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  lang: 'pt-BR',
+  title: "Eva N' Essence",
+  description: 'Documentação do Sistema de Gestão',
 
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: '01. Introdução', link: '/01-introducao'},
-      { text: '02. Descrição do Projeto', link: '/02-descricao-do-projeto'},
-      { text: '03. Recursos e Funcionalidades', link: '/03-recursos-e-funcionalidades'},
-      { text: '04. Casos de Uso', link: '/04-casos-de-uso'},
-      { text: '05. Diagrama de Entidade e Relacionamento', link: '/05-diagrama-er'},
-      { text: '06. Prototipagem', link: '/06-prototipos'},
-      { text: '07. Cronograma', link: '/07-cronograma'},
-      { text: '08. Riscos e Mitigações', link: '/08-riscos-e-mitigacoes'},
-      { text: '09. Custos e Orçamentos', link: '/09-custos-e-orcamentos'},
-      { text: '10. Considerações Finais', link: '/10-consideracoes-finais'},
-    ],
+      { text: 'Documentação', link: '/01-introducao'},
+      ],
 
     sidebar: [
       {
