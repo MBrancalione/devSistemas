@@ -9,10 +9,6 @@ actions:
     -   theme: brand 
         text: Introdução 
         link: /introducao/ 
-    
-    -   theme: alt 
-        text: Funcionalidades 
-        link: /funcionalidades/ 
 --- 
 
 # Bem-vindo à documentação do Eva N' Essence 
@@ -20,19 +16,27 @@ O projeto **Eva N' Essence** consiste em um sistema web de gestão e e-commerce 
 
 - Controle de estoque 
 - Catálogo online 
-- Carrinho de compras 
-- Pagamentos 
-- Histórico de pedidos 
+- Compra e Venda
 - Portal administrativo 
+---
 
-## Documentação 
-- [1. Introdução](/01-introducao) 
-- [2. Descrição do Projeto](/02-descricao-do-projeto) 
-- [3. Recursos e Funcionalidades](/03-recursos-e-funcionalidades) 
-- [4. Casos de Uso](/04-casos-de-uso) 
-- [5. Diagrama ER](/05-diagrama-er) 
-- [6. Protótipos](/06-prototipos) 
-- [7. Cronograma](/07-cronograma) 
-- [8. Riscos e Mitigações](/08-riscos-e-mitigacoes) 
-- [9. Custos e Orçamentos](/09-custos-e-orcamentos) 
-- [10. Considerações Finais](/10-consideracoes-finais)
+::: info Pronto para começar?
+Clique no link abaixo para entrar no primeiro capítulo e iniciar a leitura da documentação técnica:
+
+-> **[Introdução](/01-introducao)**
+:::
+
+## Navegação Rápida
+
+Caso queira ir direto para um documento técnico específico, utilize os atalhos abaixo:
+
+| Seção Técnica | Conteúdo Principal |
+| :--- | :--- |
+| [Planejamento Estratégico](/02-descricao-do-projeto) | Mapeamento do Canvas do Projeto e análise de Stakeholders. |
+| [Engenharia de Requisitos](/03-recursos-e-funcionalidades) | Listagem completa de Requisitos Funcionais (RF) e Não Funcionais (RNF). |
+| [Arquitetura de Dados](/05-diagrama-er) | Modelagem do banco de dados e Diagrama de Entidade e Relacionamento. |
+| [Cronograma e Riscos](/07-cronograma) | Ciclo de vida do desenvolvimento, prazos e plano de mitigação de riscos. |
+
+::: info Sobre o Projeto
+O projeto **Eva N' Essence** foi desenvolvido como projeto de avaliação no componente curricular de Desenvolvimento de Sistemas do Técnico em Informática integrado ao Ensino Médio, no IFSC Campus Chapecó!
+:::
