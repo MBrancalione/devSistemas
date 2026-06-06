@@ -26,3 +26,33 @@ O projeto visa desenvolver um sistema web de gestão e e-commerce focado em dois
 
 ## 1.4 Público-alvo
 Este documento destina-se a todas as partes interessadas no desenvolvimento e uso do software, incluindo a equipe de desenvolvimento, funcionários da perfumaria e os clientes finais.
+
+## 1.5 Minimundo
+A perfumaria busca implementar um sistema de gestão e vendas online para organizar seu inventário e otimizar a experiência de compra dos seus clientes. O sistema deve gerenciar o catálogo de mercadorias, que são classificadas e divididas em 4 categorias principais: perfumes, itens de skincare, maquiagens e cosméticos corporais. Cada categoria principal será subdividida em subcategorias. Essas subcategorias permitem uma organização melhor do catálogo, facilitando a filtragem dos produtos para os usuários.
+
+* **Perfumes:** Subdivididos por concentração, gênero e família olfativa.
+* **Skincare:** Organizados por etapa de cuidado (limpeza, hidratação, tratamento).
+* **Maquiagens:** Segmentados por área do rosto (pele, olhos, lábios).
+* **Cosméticos Corporais:** Classificados por função (banho, hidratação ou higiene).
+
+Cada produto possui informações detalhadas, incluindo nome, marca, descrição, composição, valor e quantidade em estoque. 
+
+Para realizar uma compra, o cliente deve realizar um cadastro obrigatório, contendo nome completo, CPF, endereço completo (logradouro, número, bairro, cidade e UF), CEP , email, número de telefone e a criação de uma senha de 8 dígitos. 
+
+**Não é permitido o cadastro de mais de uma conta com o mesmo CPF ou e-mail.** 
+
+O cliente pode realizar ações no site escolhendo e adicionando produtos a um carrinho de compras virtual. O sistema permite que o cliente adicione novos itens, remova produtos ou prossiga para a finalização do pedido. 
+
+Caso um produto desejado não esteja disponível em estoque, o sistema oferece uma **lista de espera**, onde o cliente cadastrado recebe uma notificação automática via e-mail assim que o item retornar ao catálogo.
+
+No momento da compra, o cliente deve selecionar uma das formas de pagamento integradas: PIX, cartão de crédito/débito ou boleto bancário. 
+
+Após a confirmação do pagamento, o sistema gera um registro no histórico de pedidos do cliente. Através desse histórico, o usuário pode consultar todas as suas compras anteriores, detalhando os produtos adquiridos e seus respectivos valores no ato da compra, além do status atual da entrega (ex: Pendente, Enviado ou Entregue).
+
+Após a alteração do status do pedido para 'Entregue', o usuário poderá atribuir uma nota de 1 a 5 e registrar um comentário descritivo sobre sua experiência com o produto.
+
+O sistema impõe um controle de acesso rigoroso:
+* **Funcionários:** Possuem um portal administrativo acessado via login e senha exclusivos, cadastrados com nome completo, CPF, endereço completo (logradouro, número, bairro, cidade e UF), CEP , email e número de telefone, onde podem adicionar novos produtos ao catálogo, atualizar preços, retirar itens de linha e gerenciar o estoque.
+* **Clientes:** Têm acesso apenas à interface de compra, consulta de produtos e perfil pessoal para acompanhamento de seus pedidos, sem permissão de acesso às ferramentas de gestão interna.
+
+O sistema visa integrar a facilidade do e-commerce com um controle de estoque eficiente, garantindo a segurança dos dados e transparência no acompanhamento das compras realizadas.
