@@ -12,6 +12,11 @@ export default defineConfig({
       { text: 'Documentação', link: '/01-introducao'},
       ],
 
+    outline: {
+      label:  'Nesta página',
+      level: 'deep'
+    },
+    
     sidebar: [
       {
         text: 'Documentação do Projeto',
