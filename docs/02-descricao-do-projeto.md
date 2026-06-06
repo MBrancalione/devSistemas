@@ -20,73 +20,37 @@ Entre os principais benefícios estão:
 
 ### 2.1.1 Canvas do Projeto
 
-Abaixo está o mapeamento estratégico do modelo de negócios do ecossistema **Eva N' Essence** baseado na metodologia do Lean Canvas:
+O mapeamento estratégico do ecossistema **Eva N' Essence** está organizado abaixo através de blocos interativos. Clique em cada um dos tópicos para expandir e visualizar as diretrizes e post-its mapeados para o modelo de negócios:
 
-| Bloco do Canvas | Itens Mapeados e Estratégias do Sistema |
-| :--- | :--- |
-| **Parceiros-Chave** | • Marcas renomadas (Dior, Bulgari, Nars, Chanel)<br>• Órgãos reguladores (ANVISA)<br>• Perfumistas e Curadores<br>• Influenciadores Digitais e Marketing de Afiliados<br>• Transportadoras e Empresas de Logística Expressa |
-| **Atividades-Chave** | • Comercialização de produtos cosméticos online<br>• Gestão automatizada de estoque e inventário<br>• Curadoria e atualização de catálogo premium |
-| **Recursos-Chave** | • Banco de dados de clientes e histórico de compras<br>• Equipe de desenvolvimento e suporte técnico<br>• Corpo de funcionários da perfumaria<br>• Marcas parceiras e contratos de distribuição |
-| **Propostas de Valor** | • Venda de marcas renomadas e importadas com garantia de procedência<br>• Excelente e fluida experiência de compra digital<br>• Contribuição direta para a autoestima e bem-estar do cliente<br>• Curadoria exclusiva de fragrâncias e tratamentos<br>• Serviço de entrega ultra rápida e rastreável |
-| **Relações com Clientes** | • Canais automatizados no E-commerce<br>• Presença e engajamento em Redes Sociais<br>• Alertas personalizados (como a Lista de Espera por e-mail) |
-| **Canais** | • Plataforma Web E-commerce Centralizada<br>• Estratégias de Marketing Digital e Tráfego Pago |
-| **Segmentos de Mercado** | • Jovens e adultos em busca de produtos premium (faixa de 20 a 45 anos)<br>• Consumidores pertencentes às classes média e alta<br>• Compradores conscientes focados em autocuidado ou presentes refinados |
-| **Estrutura de Custos** | • Fornecedores de mercadorias e insumos<br>• Embalagens personalizadas de alto padrão<br>• Frete, logística e taxas de entrega de transportadoras<br>• Campanhas de marketing e divulgação de marca<br>• Custos de importação e taxas aduaneiras<br>• Desenvolvimento, infraestrutura de servidores e manutenção do site<br>• Folha salarial dos funcionários e corpo operacional |
-| **Fontes de Receita** | • Venda direta de perfumes, maquiagens e cosméticos corporais online |
-
----
-
-### 📌 Visualização em Blocos (Simulação de Post-its)
-
-::: details 🤝 Parceiros-Chave
-* Marcas renomadas (Dior, Bulgari, Nars, Chanel)
-* ANVISA (Conformidade regulatória)
-* Perfumistas e influenciadores digitais
-* Transportadoras parceiras
+::: details 🤝 1. Parceiros-Chave (Key Partners)
+* **Grandes Marcas Internacionais:** Parcerias de distribuição direta com marcas de renome e prestígio (ex: *Dior, Bulgari, Nars, Chanel*).
+* **Órgãos Reguladores:** Alinhamento estrito com as normas da *ANVISA* para garantir a procedência, segurança e o registro correto de cada SKU comercializado.
+* **Profissionais Especializados:** Colaboração com perfumistas experientes e curadores de estética para refinar a seleção de produtos do catálogo.
+* **Divulgação e Marketing:** Parcerias estratégicas com influenciadores digitais do nicho de beleza, cosméticos e autocuidado, além de redes de afiliados.
+* **Logística Estruturada:** Contratos com transportadoras privadas e empresas de logística expressa para garantir despachos rápidos e seguros.
 :::
 
-::: tip ⚡ Atividades e Recursos
-**Atividades-Chave:**
-* Venda e distribuição de cosméticos de luxo online.
-* Gestão em tempo real de estoque concorrente.
-
-**Recursos-Chave:**
-* Base de dados segura de clientes (Conforme LGPD).
-* Equipe técnica e operacional.
-* Catálogo de marcas exclusivas.
+::: details ⚡ 2. Atividades-Chave (Key Activities)
+* **Comercialização Online:** Operação, atualização e venda direta de produtos cosméticos através da plataforma de e-commerce.
+* **Automação de Inventário:** Controle rígido de estoque concorrente em tempo real, mitigando erros de vendas duplicadas de itens esgotados.
+* **Curadoria de Produtos:** Seleção criteriosa e atualização constante do portfólio de marcas premium e importadas.
 :::
 
-::: info ✨ Proposta de Valor
-* Venda de marcas de prestígio internacional.
-* Experiência de compra fluida (catálogo inteligente por subcategorias).
-* Autoestima, curadoria e entrega ultra rápida.
+::: details 💎 3. Proposta de Valor (Value Proposition)
+* **Procedência Garantida:** Comercialização confiável de marcas renomadas e importadas de alta qualidade no mercado nacional.
+* **Experiência de Navegação:** Plataforma digital intuitiva, com divisão clara de produtos por categorias e filtros avançados por subcategorias.
+* **Bem-estar e Autoestima:** Curadoria de produtos focada em proporcionar momentos únicos de autocuidado, beleza e refinamento para o consumidor.
+* **Logística de Excelência:** Serviço de entrega ultra rápida, acompanhado de sistemas transparentes para rastreamento em tempo real.
 :::
 
-::: warning 📣 Canais e Relacionamento
-**Canais:**
-* Plataforma E-commerce integrada e responsiva.
-* Campanhas de Marketing Digital.
-
-**Relacionamento:**
-* Atendimento digital personalizado.
-* Disparos de e-mail automatizados para lista de espera.
+::: details 📣 4. Relações com Clientes (Customer Relationships)
+* **Automação no E-commerce:** Interface self-service fluida e amigável para navegação, montagem de carrinho e finalização de compras de forma autônoma.
+* **Engajamento Digital:** Presença ativa e integrada através das principais redes sociais e canais de comunicação com a marca.
+* **Retenção Ativa (Lista de Espera):** Sistema inteligente de avisos automáticos por e-mail para engajar o cliente assim que um produto esgotado for reabastecido.
 :::
 
-::: danger 👥 Segmentos de Mercado
-* Jovens e adultos de 20 a 45 anos (Classes Média-Alta).
-* Consumidores exigentes de produtos de autocuidado.
-* Compradores de presentes de luxo.
-:::
-
-::: details 💰 Finanças (Custos e Receitas)
-**Estrutura de Custos:**
-* Aquisição de produtos premium, importação e embalagens.
-* Marketing, tráfego pago e salários da equipe.
-* Infraestrutura de software e servidores da nuvem.
-
-**Fontes de Renda:**
-* Faturamento gerado pelas vendas online do catálogo.
-:::
+::: details 👥 5. Segmentos de Mercado (Customer Segments)
+* **Perfil Demográfico:** Jovens e adultos interessados no mercado de cuidados pessoais e perfumaria de alto padrão (público de
 
 ### 2.2 Stakeholder
 | Stakeholder | Papel |
