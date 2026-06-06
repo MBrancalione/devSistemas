@@ -23,9 +23,10 @@ O projeto visa desenvolver um sistema web de gestão e e-commerce focado em dois
 * **E-commerce**: Modalidade de comércio eletrônico realizado pela internet.
 * **LGPD**: Lei Geral de Proteção de Dados (Lei nº 13.709/2018), que regulamenta o tratamento de dados pessoais no Brasil.
 * **PIX**: Sistema de pagamento instantâneo criado pelo Banco Central do Brasil.
+* **Anvisa**: Agência Nacional de Vigilância Sanitária.
 
 ## 1.4 Público-alvo
-Este documento destina-se a todas as partes interessadas no desenvolvimento e uso do software, incluindo a equipe de desenvolvimento, funcionários da perfumaria e os clientes finais.
+Este documento destina-se a todas as partes interessadas envolvidas no desenvolvimento, implementação e uso do software Eva N’ Essence. Isso inclui os membros da equipe de desenvolvimento, os funcionários que utilizarão o portal administrativo e os clientes finais que realizarão compras pela plataforma. 
 
 ## 1.5 Minimundo
 A perfumaria busca implementar um sistema de gestão e vendas online para organizar seu inventário e otimizar a experiência de compra dos seus clientes. O sistema deve gerenciar o catálogo de mercadorias, que são classificadas e divididas em 4 categorias principais: perfumes, itens de skincare, maquiagens e cosméticos corporais. Cada categoria principal será subdividida em subcategorias. Essas subcategorias permitem uma organização melhor do catálogo, facilitando a filtragem dos produtos para os usuários.
