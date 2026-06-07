@@ -6,7 +6,7 @@ title: 3. Recursos e Funcionalidades
 
 Conheça as soluções de recursos e funcionalidades da Eva N' Essence, divididas entre a experiência do cliente na loja virtual e a eficiência do controle administrativo.
 
-## Ambiente do Cliente: Loja Virtual
+### Ambiente do Cliente: Loja Virtual
 
 ::: tip Cadastro e Autenticação Inteligente
 * **Acesso Seguro:** Login realizado via e-mail e senha, com controle baseado no perfil para garantir uma navegação protegida.
@@ -30,7 +30,7 @@ Conheça as soluções de recursos e funcionalidades da Eva N' Essence, dividida
 * **Feedback:** Após a confirmação da entrega, o cliente pode atribuir uma nota de 1 a 5 estrelas e registrar um comentário sobre o produto adquirido.
 :::
 
-## Ambiente Operacional: Painel Administrativo
+### Ambiente Operacional: Painel Administrativo
 
 ::: tip Portal Administrativo e Controle de Estoque
 Interface totalmente restrita e exclusiva para a equipe interna gerenciar o negócio com precisão:
