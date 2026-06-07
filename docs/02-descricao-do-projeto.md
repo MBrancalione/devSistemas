@@ -79,6 +79,9 @@ Entre os principais benefícios estão:
 :::
 
 ### 2.2 Stakeholder
+
+Stakeholders são todos os indivíduos, grupos ou organizações que são afetados pelas ações, decisões e resultados de uma empresa ou projeto, ou que possuem influência sobre eles.
+
 | Stakeholder | Papel |
 | :--- | :--- |
 | Equipe de Desenvolvimento | Responsáveis pelo levantamento de requisitos, modelagem, prototipação e desenvolvimento do sistema. |
