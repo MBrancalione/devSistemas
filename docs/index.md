@@ -36,7 +36,7 @@ Caso queira ir direto para um documento técnico específico, utilize os atalhos
 | [Engenharia de Requisitos](/03-recursos-e-funcionalidades) | Listagem completa de Requisitos Funcionais (RF) e Não Funcionais (RNF). |
 | [Arquitetura de Dados](/05-diagrama-er) | Modelagem do banco de dados e Diagrama de Entidade e Relacionamento. |
 | [Cronograma e Riscos](/07-cronograma) | Ciclo de vida do desenvolvimento, prazos e plano de mitigação de riscos. |
-
+---
 ::: info Sobre o Projeto
 O projeto **Eva N' Essence** foi desenvolvido como projeto de avaliação no componente curricular de Desenvolvimento de Sistemas do Técnico em Informática integrado ao Ensino Médio, no IFSC Campus Chapecó, pelos alunos **Bruna Emanueli Vaz de Oliveira, Emily Menezes, Maria Eduarda Brancalione, Ryan Wesley Bortolossi e Yasmim Vitória de Souza Rosa!**
 :::
