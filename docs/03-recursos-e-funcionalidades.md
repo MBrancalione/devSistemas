@@ -4,7 +4,40 @@ title: 3. Recursos e Funcionalidades
 
 # 3. Recursos e Funcionalidades
 
-O sistema divide-se em um conjunto de regras de negócio detalhadas através de Requisitos Funcionais (RF) e Não Funcionais (RNF).
+Conheça as soluções de recursos e funcionalidades da Eva N' Essence, divididas entre a experiência do cliente na loja virtual e a eficiência do controle administrativo.
+
+## Ambiente do Cliente: Loja Virtual
+
+::: tip Cadastro e Autenticação Inteligente
+* **Acesso Seguro:** Login realizado via e-mail e senha, com controle baseado no perfil para garantir uma navegação protegida.
+:::
+
+::: tip Catálogo de Produtos Categorizado
+* **Navegação:** Produtos organizados em quatro categorias principais, cada uma com subcategorias específicas para filtros rápidos.
+* **Detalhes:** Cada item exibe informações detalhadas como nome, marca, descrição, composição, preço e a disponibilidade real em estoque.
+:::
+
+::: tip Carrinho de Compras 
+* **Comodidade:** Permite adicionar produtos, ajustar quantidades ou remover itens com facilidade antes de finalizar o pedido.
+:::
+
+::: tip Lista de Espera 
+* **Interação Inteligente:** Produtos com estoque zerado oferecem ao cliente a opção de entrar em uma lista de espera.
+* **Notificação:** O sistema envia um e-mail de alerta automático assim que o item for reabastecido.
+:::
+
+::: tip Sistema de Avaliação de Produtos
+* **Feedback:** Após a confirmação da entrega, o cliente pode atribuir uma nota de 1 a 5 estrelas e registrar um comentário sobre o produto adquirido.
+:::
+
+## Ambiente Operacional: Painel Administrativo
+
+::: tip Portal Administrativo e Controle de Estoque
+Interface totalmente restrita e exclusiva para a equipe interna gerenciar o negócio com precisão:
+
+* **Sincronização Automática:** O estoque é atualizado automaticamente no banco de dados após cada compra confirmada.
+* **Gestão de Catálogo:** Permite ao funcionário cadastrar novos produtos, atualizar preços de venda e ajustar o estoque manualmente.
+:::
 
 ## 3.1 Requisitos Funcionais
 
