@@ -20,8 +20,6 @@ Entre os principais benefícios estão:
 
 ### 2.1.1 Canvas do Projeto
 
-O mapeamento estratégico do ecossistema **Eva N' Essence** está organizado abaixo através de blocos interativos. Clique em cada um dos tópicos para expandir e visualizar as diretrizes mapeadas para o modelo de negócios:
-
 ::: details 1. Segmento de Mercado
 * **Jovens e adultos** em busca de produtos premium (20 a 45 anos).
 * Classes **média-alta**.
