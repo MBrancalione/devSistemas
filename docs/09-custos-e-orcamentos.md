@@ -12,23 +12,19 @@ O modelo **COCOMO II** baseia-se na estimativa de custos de software. Apoiado no
  
 Para facilitar a aplicação do método, foi utilizado um site que realiza os cálculos automaticamente por meio das fórmulas, conforme os dados inseridos nas variantes de complexidade do projeto.
  
-::: info 🔗 Ferramenta utilizada
+::: info Ferramenta utilizada
 [COCOMO II Online — softwarecost.org](https://softwarecost.org/tools/COCOMO/)
 :::
  
 O modelo prevê valores de custos com base no esforço necessário para realizar cada etapa. Todas as ações e fases do projeto são geradas automaticamente ao calcular os custos.
  
----
- 
 ## Variantes de Complexidade
  
 A partir de uma **Tabela de Contagem Detalhada de Funções**, foi possível entender, de forma clara e baseada em dados, a complexidade do projeto. O projeto foi inicialmente definido como de baixa complexidade construtiva, mas evoluiu para **média complexidade** ao considerar a manutenção e preservação de dados pessoais sensíveis e transações monetárias.
  
-::: info 📊 Tabela de Contagem Detalhada de Funções
+::: info Tabela de Contagem Detalhada de Funções
 [Acessar tabela no Google Sheets](https://docs.google.com/spreadsheets/d/1kAOVISerpZO6NDvEN-y5s5F0cmrTr8c8/edit?usp=sharing&ouid=101991294724682763907&rtpof=true&sd=true)
 :::
- 
----
  
 ## Custos
  
@@ -149,7 +145,7 @@ O campo de **taxa de mão de obra** representa o custo mensal por funcionário e
  
 ## Orçamento Final
  
-::: tip 💰 Resumo do Orçamento
+::: tip Resumo do Orçamento
 | Item | Valor |
 |---|---|
 | **Desenvolvimento completo do software** | **R$ 250.000,00** |
