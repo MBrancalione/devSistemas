@@ -39,7 +39,7 @@ Interface totalmente restrita e exclusiva para a equipe interna gerenciar o neg�
 * **Gestão de Catálogo:** Permite ao funcionário cadastrar novos produtos, atualizar preços de venda e ajustar o estoque manualmente.
 :::
 
-## 3.1 Requisitos Funcionais
+## 3.1. Requisitos Funcionais
 
 | ID | Descrição |
 | :--- | :--- |
@@ -65,7 +65,7 @@ Interface totalmente restrita e exclusiva para a equipe interna gerenciar o neg�
 | **RF20** | Atualizar o status do pedido via integração com a transportadora (Pendente, Enviado, Entregue). |
 | **RF21** | Permitir avaliação com nota (1 a 5 estrelas) e comentário descritivo apenas após o status 'Entregue'. |
 
-## 3.2 Requisitos Não Funcionais
+## 3.2. Requisitos Não Funcionais
 
 | ID | Descrição |
 | :--- | :--- |

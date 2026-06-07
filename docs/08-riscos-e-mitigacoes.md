@@ -4,6 +4,8 @@ title: 8. Riscos e Mitigações
 
 # 8. Riscos e Mitigações
 
+A mitigação de riscos é o processo de reduzir a probabilidade ou o impacto de eventos incertos que podem prejudicar o projeto!
+
 | Risco Identificado | Estratégia de Mitigação / Ação |
 | :--- | :--- |
 | **Reações alérgicas a cosméticos** | Aquisição junto a fornecedores que seguem critérios de cosmetovigilância. Orientação para o cliente contatar o fabricante e a ANVISA caso ocorra. |

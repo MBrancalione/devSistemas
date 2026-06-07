@@ -2,12 +2,14 @@
 title: 4. Casos de Uso
 ---
 
-## 4.1 Diagrama de Casos de Uso
+## 4.1. Diagrama de Casos de Uso
+
+O diagrama de casos de uso documenta de forma simples e visual o que o sistema faz do ponto de vista do usuário.
 
 ![Diagrama de Casos de Uso Eva N' Essence](/Casos%20de%20Uso%20ENE-Página-1.drawio.png)
 
-## 4.2 Descrição de Casos de Uso
-### 4.2.1 Cenário de Caso de Uso 1: Realizar Compra
+## 4.2. Descrição de Casos de Uso
+### 4.2.1. Cenário de Caso de Uso 1: Realizar Compra
 
 * **Atores:** Cliente e Sistema
 * **Objetivo:** Permitir ao cliente finalizar a compra dos itens selecionados em seu carrinho.
@@ -17,7 +19,7 @@ title: 4. Casos de Uso
 * O cliente deve ter pelo menos um produto adicionado ao carrinho de compras.
 :::
 
-### Fluxo Principal
+#### Fluxo Principal
 
 1. O cliente acessa o sistema e realiza o login.
 2. O cliente entra no catálogo.
@@ -37,7 +39,7 @@ title: 4. Casos de Uso
 16. O sistema esvazia o carrinho de compras do cliente.
 17. O cliente recebe uma notificação de confirmação do pedido.
 
-### Fluxos Alternativos
+#### Fluxos Alternativos
 
 ::: details Alternativa 1: Produto desejado fora de estoque
 No **passo 4**, se o cliente selecionar um produto não disponível em estoque, o sistema oferece a opção de ir para uma lista de espera.
@@ -65,7 +67,7 @@ No **passo 12**, o cliente escolhe a opção boleto:
 
 ---
 
-### 4.2.2 Cenário de Caso de Uso 2: Cadastrar Produto
+### 4.2.2. Cenário de Caso de Uso 2: Cadastrar Produto
 
 * **Atores:** Funcionário e Sistema
 * **Objetivo:** Permitir ao funcionário cadastrar um produto novo na loja virtual.
@@ -74,7 +76,7 @@ No **passo 12**, o cliente escolhe a opção boleto:
 * O funcionário deve ter realizado o login no sistema.
 :::
 
-### Fluxo Principal
+#### Fluxo Principal
 
 1. O funcionário acessa o sistema e realiza o login.
 2. O funcionário acessa a seção de estoque.
@@ -87,7 +89,7 @@ No **passo 12**, o cliente escolhe a opção boleto:
 9. O sistema exibe uma mensagem de sucesso.
 10. O sistema redireciona o funcionário de volta para a listagem de produtos atualizada.
 
-### Fluxos Alternativos
+#### Fluxos Alternativos
 
 ::: details Alternativa 1: Dados obrigatórios não preenchidos ou inválidos 
 No **passo 6**, se o funcionário deixar de preencher um campo obrigatório ou inserir dados inválidos:

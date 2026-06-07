@@ -6,7 +6,7 @@ title: 2. Descrição do Projeto
 
 O Eva N' Essence é um sistema web projetado para modernizar e digitalizar as operações de uma perfumaria, ampliando seu alcance comercial e melhorando a eficiência operacional.
 
-## 2.1 Visão Geral do Projeto
+## 2.1. Visão Geral do Projeto
 A plataforma oferece aos clientes uma experiência de compra online completa, com catálogo categorizado, carrinho de compras, pagamento integrado e acompanhamento de pedidos. 
 
 Para os funcionários, disponibiliza um portal administrativo dedicado para gestão de produtos, preços e estoque. 
@@ -18,7 +18,7 @@ Entre os principais benefícios estão:
 * A melhora na experiência do consumidor;
 * O aumento da eficiência operacional. 
 
-### 2.1.1 Canvas do Projeto
+### 2.1.1. Canvas do Projeto
 
 ::: details 1. Segmento de Mercado
 * **Jovens e adultos** em busca de produtos premium (20 a 45 anos).
@@ -78,7 +78,7 @@ Entre os principais benefícios estão:
 * Salário dos **funcionários**.
 :::
 
-### 2.2 Stakeholder
+### 2.2. Stakeholder
 
 Stakeholders são todos os indivíduos, grupos ou organizações que são afetados pelas ações, decisões e resultados de uma empresa ou projeto, ou que possuem influência sobre eles.
 
