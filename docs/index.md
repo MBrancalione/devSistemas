@@ -1,15 +1,15 @@
 --- 
 layout: home 
 hero: 
-    name: "Eva N' Essence" 
+    name: "<span style='background: linear-gradient(135deg, #00b4db, #0083b0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;'>Eva N' Essence</span>" 
     text: "Documentação do Sistema" 
     tagline: "Sistema de Gestão e E-commerce para Perfumaria" 
 
 actions: 
     -   theme: brand 
         text: Introdução 
-        link: /introducao/ 
---- 
+        link: /01-introducao/ 
+---
 
 # Bem-vindo à documentação do Eva N' Essence 
 O projeto **Eva N' Essence** consiste em um sistema web de gestão e e-commerce voltado para perfumaria, integrando: 
