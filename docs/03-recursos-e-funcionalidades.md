@@ -6,7 +6,7 @@ title: 3. Recursos e Funcionalidades
 
 Conheça as soluções de recursos e funcionalidades da Eva N' Essence, divididas entre a experiência do cliente na loja virtual e a eficiência do controle administrativo.
 
-### Ambiente do Cliente: Loja Virtual
+### Ambiente do Cliente: Loja Virtual {#ambiente-do-cliente-loja-virtual}
 
 ::: tip Cadastro e Autenticação Inteligente
 * **Acesso Seguro:** Login realizado via e-mail e senha, com controle baseado no perfil para garantir uma navegação protegida.
@@ -30,7 +30,7 @@ Conheça as soluções de recursos e funcionalidades da Eva N' Essence, dividida
 * **Feedback:** Após a confirmação da entrega, o cliente pode atribuir uma nota de 1 a 5 estrelas e registrar um comentário sobre o produto adquirido.
 :::
 
-### Ambiente Operacional: Painel Administrativo
+### Ambiente Operacional: Painel Administrativo {#ambiente-operacional-painel}
 
 ::: tip Portal Administrativo e Controle de Estoque
 Interface totalmente restrita e exclusiva para a equipe interna gerenciar o negócio com precisão:
@@ -39,7 +39,7 @@ Interface totalmente restrita e exclusiva para a equipe interna gerenciar o neg�
 * **Gestão de Catálogo:** Permite ao funcionário cadastrar novos produtos, atualizar preços de venda e ajustar o estoque manualmente.
 :::
 
-## 3.1. Requisitos Funcionais
+## 3.1. Requisitos Funcionais {#requisitos-funcionais}
 
 | ID | Descrição |
 | :--- | :--- |
@@ -65,7 +65,7 @@ Interface totalmente restrita e exclusiva para a equipe interna gerenciar o neg�
 | **RF20** | Atualizar o status do pedido via integração com a transportadora (Pendente, Enviado, Entregue). |
 | **RF21** | Permitir avaliação com nota (1 a 5 estrelas) e comentário descritivo apenas após o status 'Entregue'. |
 
-## 3.2. Requisitos Não Funcionais
+## 3.2. Requisitos Não Funcionais {#requisitos-nao-funcionais}
 
 | ID | Descrição |
 | :--- | :--- |

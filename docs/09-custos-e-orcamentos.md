@@ -6,7 +6,7 @@ title: 9. Custos e Orçamentos
 
 O viés financeiro do projeto estrutura-se de acordo com os componentes mapeados na modelagem de negócios da perfumaria.
 
-## 9.1. Modelo de Desenvolvimento — COCOMO II
+## 9.1. Modelo de Desenvolvimento — COCOMO II {#cocomo}
  
 O modelo **COCOMO II** baseia-se na estimativa de custos de software. Apoiado no COCOMO (*Constructive Cost Modeling*), é um modelo empírico criado a partir de dados históricos, possibilitando a criação de fórmulas que auxiliam a estimação de custos em projetos de desenvolvimento de software.
  
@@ -18,7 +18,7 @@ Para facilitar a aplicação do método, foi utilizado um site que realiza os c�
  
 O modelo prevê valores de custos com base no esforço necessário para realizar cada etapa. Todas as ações e fases do projeto são geradas automaticamente ao calcular os custos.
  
-## 9.2. Variantes de Complexidade
+## 9.2. Variantes de Complexidade {#variantes}
  
 A partir de uma **Tabela de Contagem Detalhada de Funções**, foi possível entender, de forma clara e baseada em dados, a complexidade do projeto. O projeto foi inicialmente definido como de baixa complexidade construtiva, mas evoluiu para **média complexidade** ao considerar a manutenção e preservação de dados pessoais sensíveis e transações monetárias.
  
@@ -26,9 +26,9 @@ A partir de uma **Tabela de Contagem Detalhada de Funções**, foi possível ent
 [Acessar tabela no Google Sheets](https://docs.google.com/spreadsheets/d/1kAOVISerpZO6NDvEN-y5s5F0cmrTr8c8/edit?usp=sharing&ouid=101991294724682763907&rtpof=true&sd=true)
 :::
  
-## 9.3. Custos
+## 9.3. Custos {#custos}
  
-### 9.3.1. Tamanho do Software
+### 9.3.1. Tamanho do Software {#tamanho}
  
 Para utilizar o COCOMO II, foi necessário definir o **tamanho estimado em linhas de código (SLOC)**. O valor adotado foi de **3.850 linhas** no parâmetro *New* (projeto criado do zero), definido a partir de pesquisas em sistemas com funcionalidades similares ao software a ser construído.
  
@@ -36,9 +36,9 @@ Para utilizar o COCOMO II, foi necessário definir o **tamanho estimado em linha
  
 ---
  
-### 9.3.2. Fatores de Escala
+### 9.3.2. Fatores de Escala {#escala}
  
-Os fatores de escala são compostos por **cinco atributos** responsáveis por determinar o expoente da equação de cálculo de esforço.
+Os fatores de escala são compostos por **cinco atributos** responsáveis por determinar o expoente da equação de cálculo de espaço.
  
 | Fator | Escala Adotada | Justificativa |
 |---|---|---|
@@ -50,18 +50,18 @@ Os fatores de escala são compostos por **cinco atributos** responsáveis por de
  
 ---
  
-### 9.3.3. Fatores de Custo
+### 9.3.3. Fatores de Custo {#fatores-custo}
  
 Os fatores de custo são variáveis multiplicativas que ajustam o esforço e o prazo do projeto com base nas características do ambiente de desenvolvimento, da equipe, do produto e do processo.
  
-#### Produto
+#### Produto {#prod}
  
 | Campo | Escala Adotada | Justificativa |
 |---|---|---|
 | Confiabilidade | **Alta** | Grande familiaridade com projetos de e-commerce |
 | Demais campos | Normal | Complexidade comum a projetos de e-commerce |
  
-#### Pessoal
+#### Pessoal {#pes}
  
 Ao simular um cenário mais crítico, onde a maioria dos programadores são *juniors*:
  
@@ -71,7 +71,7 @@ Ao simular um cenário mais crítico, onde a maioria dos programadores são *jun
 | Capacidade do Programador | **Baixa** |
 | Demais campos | Normal |
  
-#### Plataforma
+#### Plataforma {#plat}
  
 | Campo | Escala Adotada | Justificativa |
 |---|---|---|
@@ -79,7 +79,7 @@ Ao simular um cenário mais crítico, onde a maioria dos programadores são *jun
 | Memória RAM | Normal | — |
 | Hospedagem | Normal | — |
  
-#### Projeto
+#### Projeto {#proj}
  
 | Campo | Escala Adotada | Justificativa |
 |---|---|---|
@@ -89,7 +89,7 @@ Ao simular um cenário mais crítico, onde a maioria dos programadores são *jun
  
 ---
  
-### 9.3.4. Manutenção
+### 9.3.4. Manutenção {#manutencao}
  
 Foi considerada uma **manutenção anual** com base na quantidade de linhas que precisariam ser modificadas ou adaptadas por ano, durante **1 (um) ano**.
  
@@ -105,7 +105,7 @@ O COCOMO II estimou os seguintes gastos com manutenção:
  
 ---
  
-### 9.3.5. Taxas de Mão de Obra
+### 9.3.5. Taxas de Mão de Obra {#taxas}
  
 O campo de **taxa de mão de obra** representa o custo mensal por funcionário envolvido na construção do site.
  
@@ -120,9 +120,9 @@ O campo de **taxa de mão de obra** representa o custo mensal por funcionário e
  
 ---
  
-## 9.4. Resultados
+## 9.4. Resultados {#resultados}
  
-### 9.4.1 Funcionários e Prazo
+### 9.4.1 Funcionários e Prazo {#func-prazo}
  
 | Item | Valor |
 |---|---|
@@ -131,7 +131,7 @@ O campo de **taxa de mão de obra** representa o custo mensal por funcionário e
 | Prazo estimado | **9 meses** |
 | **Custo total do projeto (sem manutenção)** | **R$ 199.149,00** |
  
-### 9.4.2. Composição do Valor Final
+### 9.4.2. Composição do Valor Final {#composicao}
  
 | Item | Valor |
 |---|---|
@@ -143,7 +143,7 @@ O campo de **taxa de mão de obra** representa o custo mensal por funcionário e
  
 ---
  
-## 9.5. Orçamento Final
+## 9.5. Orçamento Final {#orcamento}
  
 ::: tip Resumo do Orçamento
 | Item | Valor |

@@ -2,14 +2,14 @@
 title: 4. Casos de Uso
 ---
 
-## 4.1. Diagrama de Casos de Uso
+## 4.1. Diagrama de Casos de Uso {#diagrama-de-casos-de-uso}
 
 O diagrama de casos de uso documenta de forma simples e visual o que o sistema faz do ponto de vista do usuário.
 
 ![Diagrama de Casos de Uso Eva N' Essence](/Casos%20de%20Uso%20ENE-Página-1.drawio.png)
 
-## 4.2. Descrição de Casos de Uso
-### 4.2.1. Cenário de Caso de Uso 1: Realizar Compra
+## 4.2. Descrição de Casos de Uso {#descricao-de-casos-de}
+### 4.2.1. Cenário de Caso de Uso 1: Realizar Compra {#cenario-de-caso-d}
 
 * **Atores:** Cliente e Sistema
 * **Objetivo:** Permitir ao cliente finalizar a compra dos itens selecionados em seu carrinho.
@@ -67,7 +67,7 @@ No **passo 12**, o cliente escolhe a opção boleto:
 
 ---
 
-### 4.2.2. Cenário de Caso de Uso 2: Cadastrar Produto
+### 4.2.2. Cenário de Caso de Uso 2: Cadastrar Produto {#cenario-de-caso}
 
 * **Atores:** Funcionário e Sistema
 * **Objetivo:** Permitir ao funcionário cadastrar um produto novo na loja virtual.
