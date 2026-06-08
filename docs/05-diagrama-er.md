@@ -8,4 +8,4 @@ Um Diagrama Entidade-Relacionamento é uma representação visual que ilustra co
 
 É essencial na modelagem de bancos de dados, pois mapeia dados, características e regras de negócio antes da implementação técnica.
 
-![Diagrama de Casos de Uso Eva N' Essence](/docs/public/Diagrama%20de%20Classes.drawio.png)
+![Diagrama de Casos de Uso Eva N' Essence](/Diagrama%20de%20Classes.drawio.png)
