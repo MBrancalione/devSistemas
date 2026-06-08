@@ -60,7 +60,7 @@ No **passo 12**, o cliente escolhe a opção boleto:
 :::
 
 ::: tip Pós-condições
-* Pedido gerado e registrado no histórico do funcionário.
+* Pedido gerado e registrado no histórico do cliente.
 * Carrinho de compras devidamente esvaziado.
 * Estoque dos produtos atualizado automaticamente.
 :::
