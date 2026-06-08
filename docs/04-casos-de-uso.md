@@ -48,7 +48,7 @@ No **passo 4**, se o cliente selecionar um produto não disponível em estoque, 
 ::: details Alternativa 2: Pagamento recusado 
 No **passo 14**, o pagamento é negado pela operadora financeira:
 1. O sistema informa o erro ao cliente.
-2. O cliente pode retornar para tentar outra forma de pagamento ou cancelar a operação.
+2. O cliente pode retornar para o **passo 12** e tentar outra forma de pagamento ou cancelar a operação.
 :::
 
 ::: details Alternativa 3: Geração de boleto 
