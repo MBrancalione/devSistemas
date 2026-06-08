@@ -6,7 +6,7 @@ title: 1. Introdução
 
 A perfumaria busca implementar um sistema de gestão e vendas online para organizar seu inventário e otimizar a experiência de compra dos seus clientes. O sistema visa integrar a facilidade do e-commerce com um controle de estoque eficiente, garantindo a segurança dos dados e transparência no acompanhamento das compras realizadas.
 
-## 1..1 Objetivo {#objetivo}
+## 1.1. Objetivo {#objetivo}
 O sistema Eva N' Essence tem como objetivos principais:
 * **Digitalizar e centralizar as operações**: Substituir processos manuais por um sistema integrado de gestão e vendas online.
 * **Catálogo organizado**: Disponibilizar um catálogo online organizado em categorias e subcategorias, permitindo navegação intuitiva.

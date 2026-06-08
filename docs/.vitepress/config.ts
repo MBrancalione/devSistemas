@@ -45,7 +45,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Ambiente do Cliente: Loja Virtual', link: '/03-recursos-e-funcionalidades#ambiente-do-cliente-loja-virtual' },
-              { text: 'Ambiente Operacional: Painel...', link: '/03-recursos-e-funcionalidades#ambiente-operacional-painel' },
+              { text: 'Ambiente Operacional: Painel Administrativo', link: '/03-recursos-e-funcionalidades#ambiente-operacional-painel' },
               { text: '3.1. Requisitos Funcionais', link: '/03-recursos-e-funcionalidades#requisitos-funcionais' },
               { text: '3.2. Requisitos Não Funcionais', link: '/03-recursos-e-funcionalidades#requisitos-nao-funcionais' }
             ]},
@@ -71,7 +71,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: '9.1. Modelo de Desenvolvenvolvimento', link: '/09-custos-e-orcamentos#cocomo' },
-              { text: '9.2. Variantes de Complexidadade', link: '/09-custos-e-orcamentos#variantes' },
+              { text: '9.2. Variantes de Complexidade', link: '/09-custos-e-orcamentos#variantes' },
               { 
                 text: '9.3. Custos', 
                 link: '/09-custos-e-orcamentos#custos',
